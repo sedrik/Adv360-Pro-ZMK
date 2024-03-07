@@ -4,7 +4,7 @@
  * This file was generated from data with the following license:
  *
  * Copyright (c) 2024 The ZMK Contributors
- * 
+ *
  * SPDX-License-Identifier: MIT
  */
 
